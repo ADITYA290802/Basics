@@ -9,20 +9,28 @@ I am learning Python from scratch.
 This repo tracks my daily progress.
 
 ## What's Inside
-- 📁 basics - variables, loops, functions
 - 📁 leetcode - daily problem solving
 - 📁 projects - mini projects
-- 📁 Python - mini projects
+- 📁 Python - practice problem in core python topics(i.e. variables, loops, functions,dictionary,lists etc.)
 
-## My Goals
+## 📚 Topics Covered
+- [ ] Variables & Data Types
+- [ ] Loops
+- [ ] Functions
+- [ ] Strings
+- [ ] Lists
+- [ ] Dictionaries
+
+## 🎯 Goals
 - [ ] Complete Python basics
-- [ ] Solve 100 LeetCode problems
-- [ ] Build 3 projects
+- [ ] Solve LeetCode problems
+- [ ] Build mini projects
 
-## Progress
-- Started: May 2026
-- Problems Solved: 0
+## 📈 Progress
+- Started: Mar 2026
+- Current Topic: OOPS
 - Days Streak: 1 🔥
 
-## Connect
+## 🔗 Connect
 - GitHub: github.com/aditya2908
+
